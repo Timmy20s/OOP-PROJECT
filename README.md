@@ -21,11 +21,12 @@ Player Tracking: Keeps track of who played what, and handles turns smoothly.
 
 
 
+![Screenshot (149)](https://github.com/user-attachments/assets/85d2c295-e649-4bc8-897c-856d4e9213fa)
 
- Built With
-- Java (JDK 17+)
-- Swing (GUI)
-- IntelliJ IDEA
 
+ [Screenshot (157)](https://github.com/user-attachments/assets/27f3dad2-b319-4905-a8a4-6b231dadfcf2)
+
+
+![Screenshot (158)](https://github.com/user-attachments/assets/96830a7f-6fd6-4a72-85cf-8a73800af229)
 
 
