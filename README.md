@@ -30,3 +30,6 @@ Player Tracking: Keeps track of who played what, and handles turns smoothly.
 ![Screenshot (158)](https://github.com/user-attachments/assets/96830a7f-6fd6-4a72-85cf-8a73800af229)
 
 
+![Screenshot (155)](https://github.com/user-attachments/assets/e50d1f47-3888-4002-9fca-53352669dad7)
+
+
